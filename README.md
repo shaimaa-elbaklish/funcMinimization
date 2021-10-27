@@ -10,6 +10,8 @@ Function Minimization using Meta-Heuristic Optimization Techniques
 | <img src="https://render.githubusercontent.com/render/math?math=\color{white} f_{4} = -\sum_{i=1}^{4} c_i exp(-\sum_{j=1}^{6} a_{ij}(x_j - p_{ij})^2)"> | 6 | [0, 1] | -3.32 |
 | <img src="https://render.githubusercontent.com/render/math?math=\color{white} f_{5} = -\sum_{i=1}^{7} [(X - a_i)(X - a_i)^T + c_i]^{-1}"> | 4 | [0, 10] | -10.4028 |
 
+Note: Equations are in white for dark theme.
+
 ## Metaheuristic Optimization Algorithms Available
 1. Simulated Annealing
 2. Genetic Algorithm
