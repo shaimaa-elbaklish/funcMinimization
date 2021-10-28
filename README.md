@@ -14,6 +14,6 @@ Note: Equations are in written in black for normal theme.
 
 ## Metaheuristic Optimization Algorithms Available
 1. Simulated Annealing
-Options: Mutliple cooling schedules (linear, geometric, exponential and hybrid).
+<br> Options: Mutliple cooling schedules (linear, geometric, exponential and hybrid).
 2. Genetic Algorithm
 Options: Multiple parents selection criteria (random, roulette wheel, SUS, rank, tournament, worst) and survivors selection (age-based and fitness-based).
