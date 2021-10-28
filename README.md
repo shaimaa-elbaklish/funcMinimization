@@ -13,7 +13,7 @@ Function Minimization using Meta-Heuristic Optimization Techniques
 Note: Equations are in written in black for normal theme.
 
 ## Metaheuristic Optimization Algorithms Available
-1. Simulated Annealing
+1. ***Simulated Annealing***
 <br> Options: Mutliple cooling schedules (linear, geometric, exponential and hybrid).
-2. Genetic Algorithm
-Options: Multiple parents selection criteria (random, roulette wheel, SUS, rank, tournament, worst) and survivors selection (age-based and fitness-based).
+2. ***Genetic Algorithm***
+<br> Options: Multiple parents selection criteria (random, roulette wheel, SUS, rank, tournament, worst) and survivors selection (age-based and fitness-based).
